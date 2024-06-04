@@ -53,11 +53,13 @@
 
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dildesilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-     <img  height="150" src="https://media2.giphy.com/media/RxAdKu5nrs32vhKEUq/giphy.gif?cid=6c09b952lcew56zddcthjjbndlf2ql4gtccsocgh8ogkmbva&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dildesilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  align="left" />
+ <img  height="150" src="https://media2.giphy.com/media/RxAdKu5nrs32vhKEUq/giphy.gifcid=6c09b952lcew56zddcthjjbndlf2ql4gtccsocgh8ogkmbva&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dildesilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dildesilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" align="right" />
 </div>
+
+
 
 <img src="https://raw.githubusercontent.com/dildesilva/dildesilva/output/snake.svg" alt="Snake animation" />
 
