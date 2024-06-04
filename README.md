@@ -1,8 +1,11 @@
 <h2 align="center">Hi 👋! My name is  dilshan de silva</h2>
+<div align="center">
 <img align="center" height="150" src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-501.gif"  />
 <h3>A new Account, the old one is gone</h3>
+   <img src="https://komarev.com/ghpvc/?username=dildesilva&&style=flat-square" align="center" />
+  </div>
 <br />
-  <img src="https://komarev.com/ghpvc/?username=dildesilva&&style=flat-square" align="center" />
+ 
 
 ###
 
