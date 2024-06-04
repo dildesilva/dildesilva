@@ -52,6 +52,6 @@
  <h2 align="center">Github Stats  </h2>
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=dildesilva&show_icons=true&count_private=true&hide_border=true" align="left" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dildesilva&hide_border=true&layout=compact" align="center" />
- <img  height="150" src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif" align="right" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dildesilva&hide_border=true&layout=compact" />
+ <img  height="150" src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif"  />
 </div>
