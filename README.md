@@ -1,5 +1,5 @@
 <div align="center">
-   <img height="150" src="https://media-s3-us-east-1.ceros.com/aspencore/images/2019/01/04/eba390aab3b0e636eeb47861adc1d520/robot-waving.gif"  />
+   <img height="150" src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952rz9xhxnc8kdhx2469mk6bkd65zq1bpgit70f4f8z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
    <h2 align="center">Hi 👋! My name is  dilshan de silva</h2>
   </div>
 <div align="center">
@@ -51,7 +51,7 @@
 
  <h2 align="center">Github Stats  </h2>
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dildesilva&show_icons=true&count_private=true&hide_border=true" align="left" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dildesilva&show_icons=true&count_private=true&hide_border=true"  />
+    <img  height="150" src="https://media2.giphy.com/media/RxAdKu5nrs32vhKEUq/giphy.gif?cid=6c09b952lcew56zddcthjjbndlf2ql4gtccsocgh8ogkmbva&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"  />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dildesilva&hide_border=true&layout=compact" />
- <img  height="150" src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif"  />
 </div>
