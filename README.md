@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋! My name is  dilshan de silva</h2>
+<img align="right" height="150" src="https://media-s3-us-east-1.ceros.com/aspencore/images/2019/01/04/eba390aab3b0e636eeb47861adc1d520/robot-waving.gif"  />
 <div align="center">
 <img align="center" height="150" src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif"  />
 <h3>A new Account, the old one is gone</h3>
@@ -11,7 +12,7 @@
 
 
 
-<img align="right" height="150" src="https://media-s3-us-east-1.ceros.com/aspencore/images/2019/01/04/eba390aab3b0e636eeb47861adc1d520/robot-waving.gif"  />
+
 
 ###
 
