@@ -1,9 +1,12 @@
 <h2 align="center">Hi 👋! My name is  dilshan de silva</h2>
+<img align="center" height="150" src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-501.gif"  />
 <h3>A new Account, the old one is gone</h3>
 <br />
   <img src="https://komarev.com/ghpvc/?username=dildesilva&&style=flat-square" align="center" />
 
 ###
+
+
 
 <img align="right" height="150" src="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Sri-Lanka_240-animated-flag-gifs.gif"  />
 
@@ -32,14 +35,6 @@
 </div>
 
 ###
-
-## Github Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dildesilva&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -48,4 +43,8 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
-###
+## Github Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dildesilva&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
