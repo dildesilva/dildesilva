@@ -1,10 +1,12 @@
-<h2 align="center">Hi 👋! My name is  dilshan de silva</h2>
-<img height="150" src="https://media-s3-us-east-1.ceros.com/aspencore/images/2019/01/04/eba390aab3b0e636eeb47861adc1d520/robot-waving.gif"  />
 <div align="center">
-<img align="center" height="150" src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif"  />
-<h3>A new Account, the old one is gone</h3>
-   <img src="https://komarev.com/ghpvc/?username=dildesilva&&style=flat-square" align="center" />
+   <img height="150" src="https://media-s3-us-east-1.ceros.com/aspencore/images/2019/01/04/eba390aab3b0e636eeb47861adc1d520/robot-waving.gif"  />
+   <h2 align="center">Hi 👋! My name is  dilshan de silva</h2>
   </div>
+<div align="center">
+   <img align="center" height="150" src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif"  />
+   <h3>A new Account, the old one is gone</h3>
+   <img src="https://komarev.com/ghpvc/?username=dildesilva&&style=flat-square" align="center" />
+</div>
 <br />
  
 
@@ -47,8 +49,8 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
-## Github Stats  
 
+ <h2 align="center">Github Stats  </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dildesilva&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
