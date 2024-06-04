@@ -5,7 +5,6 @@
 <div align="center">
    <img align="center" height="150" src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif"  />
    <h3>A new Account, the old one is gone</h3>
-   <img src="https://komarev.com/ghpvc/?username=dildesilva&&style=flat-square" align="center" />
 </div>
 <br />
  
@@ -52,5 +51,6 @@
 
  <h2 align="center">Github Stats  </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dildesilva&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dildesilva&show_icons=true&count_private=true&hide_border=true" />
+     <img src="https://komarev.com/ghpvc/?username=dildesilva&&style=flat-square" align="right" />
 </div>
