@@ -1,9 +1,11 @@
 <h2 align="center">Hi 👋! My name is  dilshan de silva</h2>
 <h3>A new Account, the old one is gone</h3>
+<br />
+  <img src="https://komarev.com/ghpvc/?username=dildesilva&&style=flat-square" align="center" />
 
 ###
 
-<img align="center" height="150" src="https://media.licdn.com/dms/image/C5603AQFi109528SqUw/profile-displayphoto-shrink_200_200/0/1662015021960?e=2147483647&v=beta&t=AMvX7hQKqp4QlDKd7niDYBmzAra2reyqsSXLw07swvc"  />
+<img align="right" height="150" src="https://media.licdn.com/dms/image/C5603AQFi109528SqUw/profile-displayphoto-shrink_200_200/0/1662015021960?e=2147483647&v=beta&t=AMvX7hQKqp4QlDKd7niDYBmzAra2reyqsSXLw07swvc"  />
 
 ###
 
@@ -35,8 +37,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dildesilva&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=dildesilva&&style=flat-square" align="center" />
 </div>
 ###
 
