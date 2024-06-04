@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is  dilshan de silva</h2>
-<img align="right" height="150" src="https://media-s3-us-east-1.ceros.com/aspencore/images/2019/01/04/eba390aab3b0e636eeb47861adc1d520/robot-waving.gif"  />
+<img height="150" src="https://media-s3-us-east-1.ceros.com/aspencore/images/2019/01/04/eba390aab3b0e636eeb47861adc1d520/robot-waving.gif"  />
 <div align="center">
 <img align="center" height="150" src="https://static.wixstatic.com/media/95462a_cecaf57dc6264bcfa0d80512f0252372~mv2.gif"  />
 <h3>A new Account, the old one is gone</h3>
@@ -39,7 +39,7 @@
 </div>
 
 ###
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
