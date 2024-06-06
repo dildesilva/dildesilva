@@ -1,6 +1,6 @@
 <div align="center">
    <img height="150" src="https://dbaasltd.com/assets/img/what-we-deliver.gif"  />
-   <img height="150" src="https://photos.google.com/photo/AF1QipOesqxyjdjt-BdQXminBvVR1VbERBx0MLIm4_3f"  />
+
    <h2 align="center">Hi 👋! My name is  dilshan de silva</h2>
   </div>
 <div align="center">
